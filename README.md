@@ -77,6 +77,3 @@ Open your web browser and navigate to the URL provided by your Vite terminal (e.
 
 - **ACID Transactions**: Transactional boundaries (`@Transactional`) guarantee database data integrity even if unexpected failures occur during logical multi-step operations like transferring funds.
 - **Clean Architecture**: Follows best practices in separating concerns horizontally across `Controllers`, `Services`, `Repositories` and `Entities`.
-
-## 📝 License
-This project is for educational and demonstrative purposes. Feel free to use it as a learning reference for integrating Spring Boot architectures with modern React frontends!
